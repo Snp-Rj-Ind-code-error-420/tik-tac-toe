@@ -33,12 +33,18 @@ arr={" 0 "," 1 "," 2 ",
 vector<string> arr={"   ","   ","   ",
 					"   ","   ","   ",
 					"   ","   ","   ",};
+
+```
+```
 class user_id{
 
 
 public:
 	string usr_sym="  ";
 	int user_no=0;
+
+```
+```
 	void display(){
 		int k=0;
 
@@ -52,7 +58,8 @@ public:
 		}
 		
 	}
-
+```
+```
 	int user_input(){
 		int k;
 		cout <<endl<< "user input"<< user_no <<" mark array [1-9]";
@@ -76,11 +83,13 @@ public:
 			return user_input();
 		}
 	}
-
+```
+```
 	void change_array(int k){
 		arr[k]=usr_sym;
 	}
-	
+```
+```
 	bool check_h(){
 
 		//horizontal logic
@@ -94,7 +103,8 @@ public:
 		}
 		return false;
 	}			
-
+```
+```
 	bool check_v(){
 
 		//Vertical logic
@@ -108,7 +118,8 @@ public:
 
 		return false;
 	}	
-		
+```
+```
 	bool check_d(){
 		//diagonal logic
 		int i=0;
@@ -129,7 +140,8 @@ public:
 		return false;
 		
 	}
-
+```
+```
 	bool win_validation(){
 		if (check_h() || check_v() || check_d()){
 			cout << endl;
@@ -157,7 +169,8 @@ public:
 	}
 
 };
-
+```
+```
 
 int user (){
 	int inp;
@@ -168,7 +181,8 @@ int user (){
 }
 
 
-
+```
+```
 int main (){
 	int x;
 	bool loop=true;
