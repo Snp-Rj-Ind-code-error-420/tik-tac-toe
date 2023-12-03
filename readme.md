@@ -13,6 +13,9 @@
 - [sorce code file](https://github.com/Snp-Rj-Ind-code-error-420/tik-tac-toe/releases/download/v0.0.0.0.0.01/tik.tac.toe.cpp)
 - [executable](https://github.com/Snp-Rj-Ind-code-error-420/tik-tac-toe/releases/download/v0.0.0.0.0.01/ttt.exe)
 
+## output
+[img](https://github.com/Snp-Rj-Ind-code-error-420/tik-tac-toe/assets/80396878/1cc418e2-9f8c-4b0d-b37c-17909d6eb66f)
+
 ## 📄 src code  
 
 ```
