@@ -10,8 +10,8 @@
 - [ ] code clean
 - [ ] some issue not resolve
 ## Download links
-- [sorce code file]()
-- [executable]()
+- [sorce code file](https://github.com/Snp-Rj-Ind-code-error-420/tik-tac-toe/releases/download/v0.0.0.0.0.01/tik.tac.toe.cpp)
+- [executable](https://github.com/Snp-Rj-Ind-code-error-420/tik-tac-toe/releases/download/v0.0.0.0.0.01/ttt.exe)
 
 ## 📄 src code  
 
